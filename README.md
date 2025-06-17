@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mbaiza27-mcp-foundry-devdocs-badge.png)](https://mseep.ai/app/mbaiza27-mcp-foundry-devdocs)
+
 # MCP Foundry DevDocs
 
 This repository contains tools for document processing and AI agent integration:
